@@ -17,7 +17,7 @@
 <br />
 <br />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=navy&right_color=blue)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=gray&right_color=Teal)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=violinie&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
