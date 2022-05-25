@@ -1,6 +1,6 @@
 ### Hello World, I'm Háňa 👋
 
-- 🔭 I’m currently working on PlantApp
+- 🔭 I’m currently working on [PlantApp](https://my-plant-app.vercel.app/)
 - 🌱 I’m currently learning Angular
 - 😄 Pronouns: She/Her
 
