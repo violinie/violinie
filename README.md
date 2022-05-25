@@ -18,7 +18,6 @@
 <br />
 <br />
 
-
 <img align="left" class="aligncenter size-full wp-image-16149 entered lazyloaded" src="https://i.graphicmama.com/blog/wp-content/uploads/2016/12/06093226/chapter1_800x600.gif" alt="" width="500"  data-jpibfi-post-excerpt="" data-jpibfi-post-url="https://graphicmama.com/blog/super-fun-illustrated-gifs-dribbble/" data-jpibfi-post-title="55 Super Fun Illustrated GIFs on Dribbble" data-jpibfi-src="https://i.graphicmama.com/blog/wp-content/uploads/2016/12/06093226/chapter1_800x600.gif" data-lazy-src="https://i.graphicmama.com/blog/wp-content/uploads/2016/12/06093226/chapter1_800x600.gif" data-ll-status="loaded">
 
 <br />
