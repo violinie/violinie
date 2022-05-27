@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [PlantApp](https://my-plant-app.vercel.app/)
 - 🌱 I’m currently learning Angular
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I play every musical instrument I have ever owned (recorder, saxophone, piano, guitar, ukulele, some violin) and I love to sing 
+- ⚡ Fun fact: I play every musical instrument I have ever owned (soprano recorder, saxophone, piano, guitar, ukulele, some violin) and I love to sing 
 
 ## Languages & Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" align="left" width="48" >
