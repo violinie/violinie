@@ -1,7 +1,7 @@
 ### Hello World, I'm Háňa 👋
 
 - 🔭 I’m currently working on [PlantApp](https://my-plant-app.vercel.app/)
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React
 - 🤔 I’m looking for help with finding a job
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I play every musical instrument I have ever owned (soprano recorder, saxophone, piano, guitar, ukulele, some violin) and I love to sing 
