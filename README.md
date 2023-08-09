@@ -38,11 +38,11 @@
 <div align="right">
  
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=violinie&theme=default&layout=compact)](https://github.com/violinie/github-readme-stats)
-  
+  <!--
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=violinie&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+  -->
 </div>
-  
+
   <div>
 <!--
 **violinie/violinie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
