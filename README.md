@@ -1,8 +1,8 @@
 ### Hello World, I'm Háňa 👋
 
-- 🔭 I’m currently working on [PlantApp](https://my-plant-app.vercel.app/)
-- 🌱 I’m currently learning Next
-- 🤔 I’m looking for help with backend for PlantApp
+- 🔭 I’m currently working on Exam exercises
+- 🌱 I’m currently learning C
+- 🤔 I’m looking for help with pointers & input to main function
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I play every musical instrument I have ever owned (soprano recorder, saxophone, piano, guitar, ukulele, some violin) and I love to sing 
 
