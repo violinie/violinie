@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Exam exercises
 - 🌱 I’m currently learning C
-- 🤔 I’m looking for help with pointers & input to main function
+- 🤔 I’m looking for help with creating tests for my project
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I play every musical instrument I have ever owned (soprano recorder, saxophone, piano, guitar, ukulele, some violin) and I love to sing 
 
