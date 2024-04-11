@@ -18,7 +18,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" align="left" width="48" >
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" align="left" width="48" >
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" align="left" width="48" >
-<img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" alt="codepen" align="left" width="48" >
 
 
 
