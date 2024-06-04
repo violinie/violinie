@@ -1,10 +1,10 @@
 ### Hello World, I'm Háňa 👋
 
-- 🔭 I’m currently working on Exam exercises
+- 🔭 I’m currently working on [Libft](https://github.com/violinie/libft)
 - 🌱 I’m currently learning C
-- 🤔 I’m looking for help with creating tests for my project
+- 🤔 I’m looking for help with understanding the basics of C 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I play every musical instrument I have ever owned (soprano recorder, saxophone, piano, guitar, ukulele, some violin) and I love to sing 
+- ⚡ Fun fact: I have the longest BeReal streak you've ever seen
 
 ## Languages & Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vs-code" align="left" width="48" >
