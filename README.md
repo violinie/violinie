@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C
 - 🤔 I’m looking for help with understanding the basics of C 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have the longest BeReal streak you've ever seen
+- ⚡ Fun fact: I have the longest BeReal streak you've ever seen (because consistency is the key)
 
 ## Languages & Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vs-code" align="left" width="48" >
