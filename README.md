@@ -1,6 +1,6 @@
 ### Hello World, I'm Háňa 👋
 
-- 🔭 I’m currently working on [ft_printf]([https://github.com/violinie/libft](https://github.com/violinie/ft_printf))
+- 🔭 I’m currently working on [ft_printf](https://github.com/violinie/ft_printf)
 - 🌱 I’m currently learning C
 - 🤔 I’m looking for help with understanding the basics of C 
 - 😄 Pronouns: She/Her
