@@ -1,6 +1,6 @@
 ### Hello World, I'm Háňa 👋
 
-- 🔭 I’m currently working on [get_next_line](https://github.com/violinie/get_next_line)
+- 🔭 I’m currently working on [exam exercises](https://github.com/violinie/42_exams) to prepare myself for the exam
 - 🌱 I’m currently learning C
 - 🤔 I’m looking for help with understanding the basics of C 
 - 😄 Pronouns: She/Her
