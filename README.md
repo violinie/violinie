@@ -1,6 +1,6 @@
 ### Hello World, I'm Háňa 👋
 
-- 🔭 I’m currently working on [Minitalk](https://github.com/violinie/42_minitalk) and [exam exercises](https://github.com/violinie/42_exams) to prepare myself for the exam
+- 🔭 I’m currently working on [Push_swap](https://github.com/violinie/42_push_swap) and [exam exercises](https://github.com/violinie/42_exams) to prepare myself for the exam
 - 🌱 I’m currently learning C
 - 🤔 I’m looking for help with understanding the basics of C 
 - 😄 Pronouns: She/Her
